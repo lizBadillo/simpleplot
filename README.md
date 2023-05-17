@@ -1,2 +1,2 @@
 # simpleplot
-ver [aqui] (https://lizbadillo.github.io/simpleplot/)
+ver [aquí](https://lizbadillo.github.io/simpleplot/)
